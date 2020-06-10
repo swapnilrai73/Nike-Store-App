@@ -1,0 +1,2 @@
+rootProject.name='Nike Store Application'
+include ':app'

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415341158377",
+    "firebase_url": "https://nike-store-application.firebaseio.com",
+    "project_id": "nike-store-application",
+    "storage_bucket": "nike-store-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415341158377:android:d226f915b2bbcacb44b578",
+        "android_client_info": {
+          "package_name": "com.example.nikestoreapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415341158377-v5e3e9jut72kosgqirrjta5onmucjg29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBs8wdk349cZw9AHYeyZvJQZRLKYAI_YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415341158377-v5e3e9jut72kosgqirrjta5onmucjg29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
